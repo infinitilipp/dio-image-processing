@@ -2,7 +2,7 @@
 Autor original: Karina Tiemi Kato
 Projeto para a criação de pacotes e publicação no Pypi, seguindo sua aula da DIO.
 
-# image-processing
+## image-processing
 Description
 the package image_processing is used to:
 	Processing:
