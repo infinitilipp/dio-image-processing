@@ -1,8 +1,8 @@
-#Projeto Image Processing
+# Projeto Image Processing
 Autor original: Karina Tiemi Kato
 Projeto para a criação de pacotes e publicação no Pypi, seguindo sua aula da DIO.
 
-#image-processing
+# image-processing
 Description
 the package image_processing is used to:
 	Processing:
@@ -16,12 +16,12 @@ the package image_processing is used to:
 		- Plot histograms
 	
 
-##Installation
+## Installation
 	Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 ```bash
 pip install image-processing
 ```
 
 
-##Author
+## Author
 Matheus Felipe
